@@ -1,2 +1,2 @@
-# davaleba-6
-lazare nikabadze davaleba-6
+# davaleba-5
+lazare nikabadze davaleba-5
